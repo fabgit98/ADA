@@ -1,6 +1,6 @@
 ## Que es Ada?
 1. [Proyecto](#Proyecto)
-2. [Technologies](#technologies)
+2. [Technologia](#technologia)
 3. [Installation](#installation)
 4. [Collaboration](#collaboration)
 5. [FAQs](#faqs)
